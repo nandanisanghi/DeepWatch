@@ -37,7 +37,7 @@ This app includes simulated API interactions for demo purposes. These can easily
 ## 🧰 Getting Started
 
 ```bash
-git clone https://github.com/your-username/deepwatch.git
+
 cd deepwatch
 npm install
 npm run dev
